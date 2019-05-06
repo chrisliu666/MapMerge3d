@@ -1,0 +1,3 @@
+/home/lenovo/CLionProjects/CalculateRotAngle/build/CMakeFiles/rebuild_cache.dir
+/home/lenovo/CLionProjects/CalculateRotAngle/build/CMakeFiles/cal.dir
+/home/lenovo/CLionProjects/CalculateRotAngle/build/CMakeFiles/edit_cache.dir
